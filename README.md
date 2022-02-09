@@ -22,7 +22,7 @@
 
 <p align="center">
   
-  <img src="https://github.com/CRYPTOcoderAS/PortFolio-Flutter/blob/main/assets/images/1.png" title="hover text">
+  <img src="Capture.PNG" title="hover text">
  
 </p>
 
